@@ -33,7 +33,7 @@ document.querySelector('#gallery-link').addEventListener('click', (event) => {
 function RenderAboutPage() {
   document.querySelector('main').innerHTML = `
     <h1 class="title">O mnie</h1>
-    <p>Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym...</p>`;
+    <p>Strona karol 8060</p>`;
 }
 
 function RenderContactPage() {
